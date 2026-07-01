@@ -1,7 +1,3 @@
-OK, tôi hiểu. Bạn muốn một file README.md hoặc hồ sơ chuyên nghiệp, không đơn giản, không xấu. Đây là bản nâng cấp:
-
----
-
 👨‍💻 Lâm Minh Phú (PhuDev)
 
 Embedded Systems Enthusiast & Python Developer
