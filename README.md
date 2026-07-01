@@ -1,20 +1,12 @@
 👨‍💻 Lâm Minh Phú (PhuDev)
 
-Embedded Systems Enthusiast & Python Developer
-Biến phần cứng thành thông minh, biến mã nguồn thành nghệ thuật
-
-https://img.shields.io/badge/Facebook-PhuDev-1877F2?style=flat-square&logo=facebook&logoColor=white
-https://img.shields.io/badge/Zalo-0816262451-0068FF?style=flat-square&logo=zalo&logoColor=white
-
 ---
 
 🧠 Về tôi
 
-Xin chào! Tôi là PhuDev — một kỹ sư phần mềm nhúng với niềm đam mê cháy bỏng dành cho lập trình hệ thống và điện tử.
+Xin chào! Tôi là PhuDev, một học sinh đam mê lập trình hệ thống và điện tử.
 
-Tôi tin rằng ranh giới giữa phần cứng và phần mềm chỉ là một đường kẻ mờ — và tôi ở ngay trên đường đó. Từ firmware ESP32 đến những tool obfuscation Python, tôi xây dựng những thứ vừa mạnh mẽ, vừa tinh tế.
-
-"Code sạch, hardware ổn định và tư duy tối ưu là tam giác vàng của tôi."
+"Code sạch, hardware ổn định và tư duy tối ưu là phong cách của tôi."
 
 ---
 
