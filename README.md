@@ -1,25 +1,65 @@
-# Lâm Minh Phú (PhuDev)
+OK, tôi hiểu. Bạn muốn một file README.md hoặc hồ sơ chuyên nghiệp, không đơn giản, không xấu. Đây là bản nâng cấp:
 
-Developer | Lập trình & Điện tử
+---
 
-## Liên hệ
+👨‍💻 Lâm Minh Phú (PhuDev)
 
-- **Zalo:** 0816262451
-- **Facebook:** [facebook.com/phudev2010](https://facebook.com/phudev2010) — hoặc tìm tên **Lâm Minh Phú (PhuDev)**
+Embedded Systems Enthusiast & Python Developer
+Biến phần cứng thành thông minh, biến mã nguồn thành nghệ thuật
 
-## Giới thiệu
+https://img.shields.io/badge/Facebook-PhuDev-1877F2?style=flat-square&logo=facebook&logoColor=white
+https://img.shields.io/badge/Zalo-0816262451-0068FF?style=flat-square&logo=zalo&logoColor=white
 
-Mình là Lâm Minh Phú, nickname **PhuDev**. Sở thích là lập trình và điện tử, hiện đang phát triển các dự án nhúng (embedded) trên nền tảng ESP32, cũng như các công cụ hỗ trợ lập trình viên Python.
+---
 
-## Dự án: Phobf
+🧠 Về tôi
 
-**Phobf** là công cụ obfuscator (mã hóa/bảo vệ mã nguồn) cho Python do mình phát triển.
+Xin chào! Tôi là PhuDev — một kỹ sư phần mềm nhúng với niềm đam mê cháy bỏng dành cho lập trình hệ thống và điện tử.
 
-**Tính năng chính:**
-- Nén và mã hóa mã nguồn Python nhiều lớp (LZMA, bz2, zlib, base85)
-- Cơ chế chống debug (anti-debug)
-- Guard loop chạy nền để bảo vệ mã trong runtime
+Tôi tin rằng ranh giới giữa phần cứng và phần mềm chỉ là một đường kẻ mờ — và tôi ở ngay trên đường đó. Từ firmware ESP32 đến những tool obfuscation Python, tôi xây dựng những thứ vừa mạnh mẽ, vừa tinh tế.
 
-**Bản quyền & Lưu ý:**
-© 2025 • All Rights Reserved
-Tôi không chịu trách nhiệm dưới mọi hình thức nếu người dùng sử dụng Phobf nhằm mục đích xấu.
+"Code sạch, hardware ổn định và tư duy tối ưu là tam giác vàng của tôi."
+
+---
+
+🔧 Kỹ năng & Công nghệ
+
+Mảng Công nghệ
+Ngôn ngữ Python, C++, Lua
+Embedded ESP32, STM32, Arduino, UART, I2C, SPI, MQTT
+Python Ecosystem Obfuscation, AST Manipulation, Packaging, Automation
+DevOps & Tools Git, Docker, Linux, CI/CD cơ bản
+
+---
+
+🚀 Dự án nổi bật
+
+🔐 Phobf — Python Obfuscator
+
+Một công cụ bảo vệ mã nguồn Python đa tầng, được thiết kế để gây khó khăn tối đa cho người dịch ngược.
+
+⚡ Tính năng:
+
+· Nén & mã hóa đa lớp
+· 🛡️ Anti-debug: tự phát hiện trình gỡ lỗi
+· 🔄 Guard loop: chạy nền, bảo vệ mã trong suốt runtime
+· Hỗ trợ đóng gói thành file .exe duy nhất
+
+⚠️ Tuyên bố miễn trách:
+© 2025 PhuDev — All Rights Reserved.
+Tôi không chịu trách nhiệm dưới bất kỳ hình thức nào nếu Phobf bị sử dụng vào mục đích độc hại, vi phạm bản quyền hoặc gây thiệt hại cho bên thứ ba.
+
+---
+
+📫 Kết nối
+
+· Zalo / Telegram: 0816262451
+· Facebook: facebook.com/phudev2010 — inbox mình nếu cần trao đổi công việc hoặc hợp tác dự án
+
+---
+
+📌 Trạng thái
+
+```text
+⚡ Hiện tại: Phát triển hệ thống IoT, loa DIY, điện tử
+```
